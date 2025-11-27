@@ -1,10 +1,10 @@
 from flask import Flask
 
-app = Flask(__name__)
+application = Flask(__name__)
 
-@app.route('/')
+@application.route('/')
 def hello():
     return "Hello from AWS Elastic Beanstalk via GitHub Actions! 🚀"
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    application.run(host='0.0.0.0', port=5000)
