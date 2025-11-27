@@ -1,2 +1,2 @@
 
-![CI-CD-Pipeline-to-AWS-ElasticBeastalk](https://github.com/USER/REPO/actions/workflows/FILE.yml/badge.svg)
+![Deploy to Elastic Beanstalk](https://github.com/qusakabi/github_actions_to_aws/actions/workflows/deploy.yml/badge.svg)
